@@ -129,7 +129,7 @@ body {
 
 .profile .banner {
   width: 100%;
-  height: 190px;
+  height: 170px;
   border-top-left-radius: 5px;
   border-top-right-radius: 5px;
 }
@@ -152,7 +152,7 @@ body {
   justify-content: center;
   position: absolute;
   border-radius: 50%;
-  top: 120px;
+  top: 100px;
   left: 16px;
 }
 
@@ -212,7 +212,7 @@ body {
   --primary-l-bottom: 97%;
   border-radius: 10px;
   position: absolute;
-  top: 219px;
+  top: 180px;
   left: 160px;
 }
 
