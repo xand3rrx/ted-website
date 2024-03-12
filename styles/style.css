@@ -360,7 +360,7 @@ body {
 }
 
 .body {
-  padding: 0 20px 16px 20px;
+  padding: 0 20px 35px 20px;
   max-height: calc(100vh - 530px);
 }
 
@@ -379,7 +379,6 @@ body {
 .content {
   border-top: 1px solid var(--box-shadow-color);
   padding-top: 12px;
-  overflow-x: hidden;
   position: relative;
   display: flex;
   flex-direction: column;
